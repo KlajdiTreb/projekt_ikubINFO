@@ -1,0 +1,42 @@
+2020-10-18 02:10:17 [main] INFO  c.p.TestProject_ikubINFO - Starting TestProject_ikubINFO on DESKTOP-CBFM8Q0 with PID 13356 (C:\Users\klajd\Desktop\projekti_ikubINFO\Controller\target\classes started by klajd in C:\Users\klajd\Desktop\projekti_ikubINFO)
+2020-10-18 02:10:17 [main] DEBUG c.p.TestProject_ikubINFO - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-18 02:10:17 [main] INFO  c.p.TestProject_ikubINFO - No active profile set, falling back to default profiles: default
+2020-10-18 02:10:29 [main] INFO  c.p.TestProject_ikubINFO - Started TestProject_ikubINFO in 13.498 seconds (JVM running for 15.349)
+2020-10-18 02:10:29 [main] DEBUG c.p.TestProject_ikubINFO - ----Application Started----
+2020-10-18 02:10:29 [main] ERROR c.p.TestProject_ikubINFO - Message logged at ERROR level
+2020-10-18 02:10:29 [main] WARN  c.p.TestProject_ikubINFO - Message logged at WARN level
+2020-10-18 02:10:29 [main] INFO  c.p.TestProject_ikubINFO - Message logged at INFO level
+2020-10-18 02:10:48 [http-nio-8080-exec-1] INFO  c.projekti_ikubINFO.entity.Punonjes -  DISPLAY ALL PUNONJESIT!
+2020-10-18 02:12:19 [main] INFO  c.p.TestProject_ikubINFO - Starting TestProject_ikubINFO on DESKTOP-CBFM8Q0 with PID 616 (C:\Users\klajd\Desktop\projekti_ikubINFO\Controller\target\classes started by klajd in C:\Users\klajd\Desktop\projekti_ikubINFO)
+2020-10-18 02:12:19 [main] DEBUG c.p.TestProject_ikubINFO - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-18 02:12:19 [main] INFO  c.p.TestProject_ikubINFO - No active profile set, falling back to default profiles: default
+2020-10-18 02:12:31 [main] INFO  c.p.TestProject_ikubINFO - Started TestProject_ikubINFO in 13.17 seconds (JVM running for 15.117)
+2020-10-18 02:12:31 [main] DEBUG c.p.TestProject_ikubINFO - ----Application Started----
+2020-10-18 02:12:31 [main] ERROR c.p.TestProject_ikubINFO - Message logged at ERROR level
+2020-10-18 02:12:31 [main] WARN  c.p.TestProject_ikubINFO - Message logged at WARN level
+2020-10-18 02:12:31 [main] INFO  c.p.TestProject_ikubINFO - Message logged at INFO level
+2020-10-18 02:14:08 [main] INFO  c.p.TestProject_ikubINFO - Starting TestProject_ikubINFO on DESKTOP-CBFM8Q0 with PID 7304 (C:\Users\klajd\Desktop\projekti_ikubINFO\Controller\target\classes started by klajd in C:\Users\klajd\Desktop\projekti_ikubINFO)
+2020-10-18 02:14:08 [main] DEBUG c.p.TestProject_ikubINFO - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-18 02:14:08 [main] INFO  c.p.TestProject_ikubINFO - No active profile set, falling back to default profiles: default
+2020-10-18 02:14:22 [main] INFO  c.p.TestProject_ikubINFO - Started TestProject_ikubINFO in 14.404 seconds (JVM running for 16.296)
+2020-10-18 02:14:22 [main] DEBUG c.p.TestProject_ikubINFO - ----Application Started----
+2020-10-18 02:14:22 [main] ERROR c.p.TestProject_ikubINFO - Message logged at ERROR level
+2020-10-18 02:14:22 [main] WARN  c.p.TestProject_ikubINFO - Message logged at WARN level
+2020-10-18 02:14:22 [main] INFO  c.p.TestProject_ikubINFO - Message logged at INFO level
+2020-10-18 02:15:48 [main] INFO  c.p.TestProject_ikubINFO - Starting TestProject_ikubINFO on DESKTOP-CBFM8Q0 with PID 10244 (C:\Users\klajd\Desktop\projekti_ikubINFO\Controller\target\classes started by klajd in C:\Users\klajd\Desktop\projekti_ikubINFO)
+2020-10-18 02:15:48 [main] DEBUG c.p.TestProject_ikubINFO - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-18 02:15:48 [main] INFO  c.p.TestProject_ikubINFO - No active profile set, falling back to default profiles: default
+2020-10-18 02:16:00 [main] INFO  c.p.TestProject_ikubINFO - Started TestProject_ikubINFO in 13.261 seconds (JVM running for 15.122)
+2020-10-18 02:16:00 [main] DEBUG c.p.TestProject_ikubINFO - ----Application Started----
+2020-10-18 02:16:00 [main] ERROR c.p.TestProject_ikubINFO - Message logged at ERROR level
+2020-10-18 02:16:00 [main] WARN  c.p.TestProject_ikubINFO - Message logged at WARN level
+2020-10-18 02:16:00 [main] INFO  c.p.TestProject_ikubINFO - Message logged at INFO level
+2020-10-18 02:16:07 [http-nio-8080-exec-1] INFO  c.projekti_ikubINFO.entity.Punonjes -  DISPLAY ALL PUNONJESIT!
+2020-10-18 02:26:04 [main] INFO  c.p.TestProject_ikubINFO - Starting TestProject_ikubINFO on DESKTOP-CBFM8Q0 with PID 8028 (C:\Users\klajd\Desktop\projekti_ikubINFO\Controller\target\classes started by klajd in C:\Users\klajd\Desktop\projekti_ikubINFO)
+2020-10-18 02:26:04 [main] DEBUG c.p.TestProject_ikubINFO - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-18 02:26:04 [main] INFO  c.p.TestProject_ikubINFO - No active profile set, falling back to default profiles: default
+2020-10-18 02:26:25 [main] INFO  c.p.TestProject_ikubINFO - Started TestProject_ikubINFO in 23.277 seconds (JVM running for 27.963)
+2020-10-18 02:26:25 [main] DEBUG c.p.TestProject_ikubINFO - ----Application Started----
+2020-10-18 02:26:25 [main] ERROR c.p.TestProject_ikubINFO - Message logged at ERROR level
+2020-10-18 02:26:25 [main] WARN  c.p.TestProject_ikubINFO - Message logged at WARN level
+2020-10-18 02:26:25 [main] INFO  c.p.TestProject_ikubINFO - Message logged at INFO level
